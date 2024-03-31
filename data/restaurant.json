@@ -1,0 +1,54 @@
+{
+ "dishes" :[
+    {
+        "id": 1,
+        "name": "Dal Baati Churma",
+        "price": 25,
+        "description": "A traditional Rajasthani delicacy consisting of baked dough balls (baati) served with lentil curry (dal) and a sweet crumbled wheat dessert (churma).",
+        "image": "https://res.cloudinary.com/dy6829ixb/image/upload/v1711873109/images/images__1_-removebg-preview_r5ltf9.png"
+    },
+    {
+        "id": 2,
+        "name": "Gatte ki Sabzi",
+        "price": 25,
+        "description": "A flavorful curry made with gram flour (besan) dumplings (gatte) cooked in a spicy yogurt-based gravy, often served with rice or roti.",
+        "image": "https://res.cloudinary.com/dy6829ixb/image/upload/v1711873109/images/images__1_-removebg-preview_r5ltf9.png"
+    },
+    {
+        "id": 3,
+        "name": "Laal Maas",
+        "price": 25,
+        "description": "A fiery red meat curry made with tender mutton cooked in a rich and spicy gravy, flavored with traditional Rajasthani spices.",
+        "image": "https://res.cloudinary.com/dy6829ixb/image/upload/v1711873109/images/images__1_-removebg-preview_r5ltf9.png"
+    },
+    {
+        "id": 4,
+        "name": "Ker Sangri",
+        "price": 25,
+        "description": "A unique Rajasthani dish made with dried desert beans (sangri) and wild berries (ker), cooked with spices to create a tangy and flavorful side dish.",
+        "image": "https://res.cloudinary.com/dy6829ixb/image/upload/v1711873109/images/images__1_-removebg-preview_r5ltf9.png"
+    },
+    {
+        "id": 5,
+        "name": "Mirchi Vada",
+        "price": 25,
+        "description": "Spicy green chilies stuffed with a tangy potato filling, coated in gram flour batter, and deep-fried until crispy and golden brown, a popular street food snack in Rajasthan.",
+        "image": "https://res.cloudinary.com/dy6829ixb/image/upload/v1711873109/images/images__1_-removebg-preview_r5ltf9.png"
+    },
+    {
+        "id": 6,
+        "name": "Bajre ki Roti",
+        "price": 25,
+        "description": "A traditional flatbread made from pearl millet (bajra) flour, commonly served with ghee (clarified butter), curries, or chutney in Rajasthani households.",
+        "image": "https://res.cloudinary.com/dy6829ixb/image/upload/v1711873109/images/images__1_-removebg-preview_r5ltf9.png"
+    },
+    {
+        "id": 7,
+        "name": "Aloo Pyaaz Kachori",
+        "price": 25,
+        "description": "Deep-fried pastry pockets filled with a spicy mixture of mashed potatoes (aloo) and onions (pyaaz), typically served as a savory snack or breakfast item.",
+        "image": "https://res.cloudinary.com/dy6829ixb/image/upload/v1711873109/images/images__1_-removebg-preview_r5ltf9.png"
+    }
+   
+]
+}

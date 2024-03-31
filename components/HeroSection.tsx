@@ -1,7 +1,6 @@
 "use client";
 import Link from "next/link"
 import { Spotlight } from "./ui/Spotlight"
-import { cn } from "@/utils/cn";
 import { Button } from "./ui/moving-border";
 
 const HeroSection = () => {
@@ -24,13 +23,13 @@ const HeroSection = () => {
                 </p>
                 <div className="mt-8">
                     <Link href={"/"}>
-                    <Button borderRadius="1.75rem" className="bg-black text-lg">
-                    Explore Respy
-                </Button>
-                        
+                        <Button borderRadius="1.75rem" className="bg-black text-lg">
+                            Explore Respy
+                        </Button>
+
                     </Link>
                 </div>
-              
+
             </div>
 
 

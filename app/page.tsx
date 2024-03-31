@@ -1,11 +1,23 @@
+import DishesRestaurant from "@/components/DishesRestaurant";
+import Feedback from "@/components/Feedback";
 import HeroSection from "@/components/HeroSection";
+import UpComingDishes from "@/components/UpComingDishes";
+import WhyChoseUs from "@/components/WhyChoseUs";
 import Image from "next/image";
 
 export default function Home() {
   return (
-    <main className="min-h-screen bg-black/[0.96] antialiased bg-grid-white/[0.02]">
-    <h1 className="text-2xl text-center">conde with vikas</h1>
+    <main className="min-h-screen text-white bg-black/[0.96] antialiased bg-grid-white/[0.02]">
+    
     <HeroSection/>
+
+    <DishesRestaurant/>
+
+    <WhyChoseUs/>
+
+    <Feedback/>
+
+    <UpComingDishes/>
   </main>
   );
 }
