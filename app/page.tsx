@@ -1,6 +1,7 @@
 import DishesRestaurant from "@/components/DishesRestaurant";
 import Feedback from "@/components/Feedback";
 import HeroSection from "@/components/HeroSection";
+import OurShafe from "@/components/OurShafe";
 import UpComingDishes from "@/components/UpComingDishes";
 import WhyChoseUs from "@/components/WhyChoseUs";
 import Image from "next/image";
@@ -18,6 +19,8 @@ export default function Home() {
     <Feedback/>
 
     <UpComingDishes/>
+
+    <OurShafe/>
   </main>
   );
 }

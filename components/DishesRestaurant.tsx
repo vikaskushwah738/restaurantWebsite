@@ -17,7 +17,7 @@ const DishesRestaurant = () => {
         <div className="py-12 bg-gray-900">
             <div>
                 <div className="text-center">
-                    <h2 className="md:text-4xl text-orange-500 text-2xl font-medium uppercase">Four Principal Objectives</h2>
+                    <h2 className="md:text-4xl text-orange-500 text-2xl font-medium uppercase">Our best selling Dishes</h2>
                     <p className="md:text-2xl text-xl pt-5">Hyderabad Hub Restaurant
                         A place where people hang out</p>
                 </div>
