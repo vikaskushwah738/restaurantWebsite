@@ -49,7 +49,7 @@ const rajasthaniDishes = [
 
 const WhyChoseUs = () => {
   return (
-    <div className="bg-black/[0.96]">
+    <div className="bg-black/[0.96] h-auto">
         <StickyScroll content={rajasthaniDishes } />
     </div>
   )
