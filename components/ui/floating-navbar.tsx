@@ -44,7 +44,7 @@ export const FloatingNav = ({
     <AnimatePresence mode="wait" >
       <motion.div
         className={cn(
-          "flex w-96 fixed inset-x-0 top-10 mx-auto shadow-lg border text-white rounded-full bg-black pr-2  h-14 text-xl  items-center justify-center space-x-7",
+          "flex w-96 fixed inset-x-0 top-10 mx-auto md:px-0 px-4 shadow-lg border text-white rounded-full bg-black pr-2 h-10 md:h-14 text-xl  items-center justify-center md:space-x-7 space-x-2",
           className
         )}
       >
@@ -53,7 +53,7 @@ export const FloatingNav = ({
             key={`${index}`}
             href={navItem.link}
             className={cn(
-              "relative items-center p-1.5 rounded-xl hover:border-2 hover:border-purple-600  "
+              "relative items-center md:p-1.5 rounded-xl hover:border-2 text-white hover:border-purple-600  "
             )}
           >
             <span className="hidden sm:block text-sm">{navItem.name}</span>
