@@ -1,5 +1,6 @@
 import DishesRestaurant from "@/components/DishesRestaurant";
 import Feedback from "@/components/Feedback";
+import Footer from "@/components/Footer";
 import HeroSection from "@/components/HeroSection";
 import OurShafe from "@/components/OurShafe";
 import UpComingDishes from "@/components/UpComingDishes";
@@ -21,6 +22,8 @@ export default function Home() {
     <UpComingDishes/>
 
     <OurShafe/>
+
+    <Footer/>
   </main>
   );
 }
