@@ -3,9 +3,9 @@ const contact = () => {
   return (
     <div className="bg-gray-900 h-[40rem]">
       <p className="text-5xl font-semibold pt-40 text-white text-center">Contact Us</p>
-      <p className="mx-auto text-center pt-7 text-white w-1/2 pb-6">Whether you have questions, feedback, or simply want to say hello, we're here to assist you.
+      <p className="mx-auto text-center pt-7 text-white w-1/2 pb-6">Whether you have questions, feedback, or simply want to say hello, we&apos;re here to assist you.
         At The Hungry Hideaway, we value your input and strive to provide exceptional service. Your satisfaction
-        is our top priority, and we're committed to ensuring that your dining experience with us exceeds your
+        is our top priority, and we&apos;re committed to ensuring that your dining experience with us exceeds your
         expectations.</p>
       
         <form className="text-white mx-auto w-1/2 flex justify-center flex-col">

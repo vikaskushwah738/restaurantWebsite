@@ -8,7 +8,7 @@ const Footer = () => {
         lg:px-8">
          <div>
             <h2 className="text-white text-lg font-semibold
-            mb-4">About Us</h2>
+            mb-4">About-Us</h2>
             <p className="mb-4">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque minima placeat alias iste tenetur. Sit a nobis iusto reprehenderit voluptatum quo, laudantium quia quaerat consequatur corporis mollitia dolores odit voluptas.
             </p>
